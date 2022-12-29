@@ -1,12 +1,12 @@
 <div align="center">  
  
-## *Github Stats* 
+## *📘Github Stats* 
  
 ![Eungi's Github stats](https://github-readme-stats.vercel.app/api?username=eunki96&show_icons=true&hide_border=true)
  
 <br/>
 
-## *Skills*
+## *👨‍💼Skills*
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunki96&custom_title=I%20use&title_color=000c&card_width=400)
 
@@ -23,7 +23,7 @@
  
 <br/>
 
-## *Github Activity*
+## *🔥Github Activity*
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=eunki96&repo=Favor-Server&&bg_color=45,fff,fff&title_color=000&text_color=000)](https://github.com/Favor-Gift-Reminder/Favor-Server)  
  
