@@ -1,8 +1,11 @@
-<h1 align="center">
-Eungi Jeong
-	<a href="https://github.com/Bouaskaoun" target="_self">
+---
+<p align="center">
+	<a href="https://github.com/eunki96">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=1000&pause=1500&color=65DFF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+I'm+Eungi+Jeong;Majoring+in+Embeded+System+Engineering;Learning+Spring-Boot+Framework;%EC%A1%B8%EC%97%85%EB%A7%88%EB%A0%B5%EB%8B%A4">
 	</a>
-</h1>
+</p>
+
+---
 
 <br/><br/>
 
