@@ -1,4 +1,10 @@
 <div align="center">  
+ 
+## *Github Stats* 
+ 
+![Eungi's Github stats](https://github-readme-stats.vercel.app/api?username=eunki96&show_icons=true&hide_border=true)
+ 
+<br/>
 
 ## *Skills*
  
@@ -14,6 +20,8 @@
 <img src="https://img.shields.io/badge/-Git-F44D27?style=for-the-badge&logo=Git&logoColor=white"/>
    
 <br/>
+ 
+<br/>
 
 ## *Github Activity*
 
@@ -21,8 +29,4 @@
  
 <br/>
 
-## *Github Stats* 
- 
-![Eungi's Github stats](https://github-readme-stats.vercel.app/api?username=eunki96&show_icons=true&hide_border=true)
- 
-<br/>
+
