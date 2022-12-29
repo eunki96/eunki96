@@ -1,3 +1,11 @@
+<h1 align="center">
+Eungi Jeong
+	<a href="https://github.com/Bouaskaoun" target="_self">
+	</a>
+</h1>
+
+<br/><br/>
+
 <div align="center">  
  
 ## *📘Github Stats* 
@@ -6,7 +14,7 @@
  
 <br/>
 
-## *👨‍💼Skills*
+## 👩🏻‍💻*Skills*
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunki96&custom_title=I%20use&title_color=000c&card_width=400)
 
