@@ -1,4 +1,4 @@
-<div align="left">  
+<div align="center">  
 
 ## *Skills*
 
@@ -9,7 +9,7 @@
 
  
 <br/> <br/>
-<div align="left">  
+<div align="center">  
 
 ## *Github Activity*
 
@@ -20,7 +20,7 @@
 
  
 <br/> <br/>
-<div align="left">  
+<div align="center">  
 
 ## *Github Stats*
 
