@@ -8,7 +8,7 @@
 
 
  
-<br/> <br/>
+<br/>
 <div align="center">  
 
 ## *Github Activity*
@@ -19,7 +19,7 @@
 
 
  
-<br/> <br/>
+<br/>
 <div align="center">  
 
 ## *Github Stats*
