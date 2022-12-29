@@ -14,6 +14,8 @@
 ## *Github Activity*
 
 <div align="center"> 
+ 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=eunki96&repo=Favor-Server&&bg_color=45,fff,fff&title_color=000&text_color=000)](https://github.com/eunki96/Favor-Server)
 
 
  
