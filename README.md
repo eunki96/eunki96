@@ -33,10 +33,6 @@
 <br/>
  
 <br/>
-
-## *🔥Github Activity*
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=eunki96&repo=Favor-Server&&bg_color=45,fff,fff&title_color=000&text_color=000)](https://github.com/Favor-Gift-Reminder/Favor-Server)  
  
 <br/>
 
