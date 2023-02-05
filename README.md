@@ -29,6 +29,15 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Git-F44D27?style=for-the-badge&logo=Git&logoColor=white"/>
+	
+<br/>
+	
+[![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
+[![Jira Badge](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)]()
+[![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
+[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
+
+<br/>
    
 <br/>
  
