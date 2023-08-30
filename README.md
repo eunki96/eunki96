@@ -15,13 +15,13 @@
  
 ## *📘Github Stats* 
  
-![Eungi's Github stats](https://github-readme-stats.vercel.app/api?username=eunki96&show_icons=true&hide_border=true)
+![Eungi's Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=eunki96&show_icons=true&hide_border=true)
  
 <br/>
 
 ## 👩🏻‍💻*Skills*
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunki96&custom_title=I%20use&title_color=000c&card_width=400)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eunki96&custom_title=I%20use&title_color=000c&card_width=400)
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
