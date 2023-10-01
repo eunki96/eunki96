@@ -47,7 +47,7 @@
   - Java, Spring Framework를 활용한 웹 서비스 개발
   - vmware 활용한 가상화 시스템 구성
   - Docker, Jenkins, AWS 활용한 DEVOPS 구성
-  - [🔗 룸메이트 추천/매칭 서비스 **붕어빵** 기획/서버/인프라/DevOps 파트 참여](https://github.com/BOONG-O-BBANG)
+  - [🔗 룸메이트 추천/매칭 서비스 **[붕어빵]** 기획/서버/인프라/DevOps 파트 참여](https://github.com/BOONG-O-BBANG)
   - BLUE-GREEN CI/CD 파이프라인 구축
 
 - **TAMS 글로벌 금융인 양성과정 9기** (2023.02)
@@ -57,7 +57,7 @@
 - **인천대학교 앱센터** (2022.09 ~)
   - Java Spring Boot 스터디 진행
   - [🔗 14.5기 서버 파트원 동아리 활동](https://github.com/inu-appcenter/server-study-14.5th)
-  - [🔗 선물 리마인더 앱 **favor** 서버 파트 참여](https://github.com/Favor-Gift-Reminder)
+  - [🔗 선물 리마인더 앱 **[favor]** 서버 파트 참여](https://github.com/Favor-Gift-Reminder)
 
 - **인하공업전문대학 알랑드론** (2017.03 ~ 2018.01)
   - 드론 조종 및 공학 이론 교육
