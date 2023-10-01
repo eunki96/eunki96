@@ -111,7 +111,13 @@
 	<img src="https://img.shields.io/badge/amazon cloudwatch-FF4F8B?style=for-the-badge&logo=amazon cloudwatch&logoColor=white">
     <br>
 	<img src="https://img.shields.io/badge/amazon identity access management-DD344C?style=for-the-badge&logo=amazon identity access management&logoColor=white">
-	<img src="https://img.shields.io/badge/amazon simple email service-DD344C?style=for-the-badge&logo=amazon simple email service&logoColor=white">
+	<img src="https://img.shields.io/badge/amazon simple email service-DD344C?style=for-the-badge&logo=amazon simple email service&logoColor=white">	
+    <br>
+    <h3>🧪 TEST</h3>
+	<img src="https://img.shields.io/badge/junit-D24939?style=for-the-badge&logo=junit&logoColor=white">
+	<img src="https://img.shields.io/badge/ngrinder-44A833?style=for-the-badge&logo=ngrinder&logoColor=white">
+    	<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white">
+    	<img src="https://img.shields.io/badge/apache jmeter-D22128?style=for-the-badge&logo=apache jmeter&logoColor=white">
     <br>
  <h3>🙌 COLLABORATIVE</h3> 
  	<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
