@@ -69,18 +69,12 @@
 
 <div text-align: left;">    
     <h3>🖌 FRONT-END</h3> 
-	    <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">
-	    <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipse ide&logoColor=white">
-    <br>
 	    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 	    <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 	    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
     <br>
     	<img src="https://img.shields.io/badge/jsp-569A31?style=for-the-badge&logo=jsp&logoColor=white">
     <h3>🖋 BACK-END</h3>
-    	<img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white">
-	<img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipse ide&logoColor=white"> 
-    <br>
     	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     	<img src="https://img.shields.io/badge/openjdk-007396?style=for-the-badge&logo=openjdk&logoColor=white">
     <br>
@@ -99,20 +93,7 @@
     	<img src="https://img.shields.io/badge/jeknins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
     	<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <br>
-    <br>
 	<img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
-    <br>
-	<img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
-	<img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white">
-	<img src="https://img.shields.io/badge/amazon route 53-8C4FFF?style=for-the-badge&logo=amazon route 53&logoColor=white">
-	<img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white">
-    <br>
-	<img src="https://img.shields.io/badge/amazon api gateway-FF4F8B?style=for-the-badge&logo=amazon api gateway&logoColor=white">
-	<img src="https://img.shields.io/badge/amazon cloudwatch-FF4F8B?style=for-the-badge&logo=amazon cloudwatch&logoColor=white">
-    <br>
-	<img src="https://img.shields.io/badge/amazon identity access management-DD344C?style=for-the-badge&logo=amazon identity access management&logoColor=white">
-	<img src="https://img.shields.io/badge/amazon simple email service-DD344C?style=for-the-badge&logo=amazon simple email service&logoColor=white">	
-    <br>
     <h3>🧪 TEST</h3>
 	<img src="https://img.shields.io/badge/junit-D24939?style=for-the-badge&logo=junit&logoColor=white">
 	<img src="https://img.shields.io/badge/ngrinder-44A833?style=for-the-badge&logo=ngrinder&logoColor=white">
@@ -133,9 +114,6 @@
   	<img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
    	<img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
    	<img src="https://img.shields.io/badge/raspberry pi-A22846?style=for-the-badge&logo=raspberry pi&logoColor=white">
-    <br>
-    	<img src="https://img.shields.io/badge/adobe premierepro-9999FF?style=for-the-badge&logo=adobe premiere pro&logoColor=white">
-     	<img src="https://img.shields.io/badge/adobe photoshop-31A8FF?style=for-the-badge&logo=adobe photoshop&logoColor=white">
  
 </div>
 
