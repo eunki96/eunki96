@@ -35,7 +35,7 @@
 <h2>☘ INTERESTS</h2>
 
 - Java Spring Boot 를 활용한 API 구현, 보안 설정
-- SQL 쿼리의 성능 향상
+- 구현 서비스의 성능 향상
 - 오픈 소스 활용하여 다양한 서비스 구현
 
 <br>
