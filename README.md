@@ -6,7 +6,8 @@
 <table>
 <tr>
 <td>
-  <img src="https://github.com/eunki96/eunki96/assets/114793764/9ee08635-dc7d-4878-b43f-9b7948a685d8" alt="Eungi's Profile Picture" width="150">
+  <img src="https://github.com/eunki96/eunki96/assets/114793764/ecb126b6-6155-4fa3-b91e-cdda79856f70" alt="Eungi's Profile Picture" width="150">
+	
 </td>
 <td>
   
