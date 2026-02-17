@@ -14,7 +14,7 @@
   
   - Name : 정은기
   - Birth : February 29, 1996
-  - Email : eunki96@naver.com / eungi9640@gmail.com
+  - Email : eunki96@naver.com / eungi9640@gmail.com / eunki96@wooriib.com
   
   <h2>📚 Education</h2>
   
